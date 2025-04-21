@@ -6,6 +6,9 @@ Este projeto implementa um **somador síncrono de 3 bits** usando o simulador **
 
 ### Componentes do circuito:
 
+![image](https://github.com/user-attachments/assets/2b9efdac-c03b-4cef-9328-fdbb6c4bd19f)
+
+
 1. **Somador de 3 Bits**
    - Um meio somador (Half Adder - HA) para o bit menos significativo (LSB)
    - Dois somadores completos (Full Adders - FA) para os bits restantes
