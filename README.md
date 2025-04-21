@@ -6,7 +6,7 @@ Este projeto implementa um **somador síncrono de 3 bits** usando o simulador **
 
 ### Componentes do circuito:
 
-![image](https://github.com/user-attachments/assets/2b9efdac-c03b-4cef-9328-fdbb6c4bd19f)
+![image](https://github.com/user-attachments/assets/af6df517-8b7d-4d6f-9829-2225c7371302)
 
 
 1. **Somador de 3 Bits**
